@@ -26,5 +26,5 @@ Trains and tests model on development data; measures classification performance 
 ### `nbclassify.py`
 Runs classifier trained in `nblearn3.py` on test data; only works on Vocareum grading platform.
 
-###`data_utils.py`
+### `data_utils.py`
 Various helper functions for reading training data, converting it to NumPy arrays etc.
